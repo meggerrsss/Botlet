@@ -1,0 +1,8 @@
+{
+“name”: “botlet”,
+“version”: “1.0.0”,
+“description”: "Raid Report Parser Bot",
+“main”: “bot.js”,
+“author”: "Meggerrsss",
+“dependencies”: {}
+}
